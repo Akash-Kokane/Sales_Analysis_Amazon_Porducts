@@ -170,9 +170,3 @@ TOTALYTD(SUM(
 * Provide meaningful business insights using visualization techniques
 
 ---
-
-* A GitHub project folder structure
-* A PDF project summary
-* A polished LinkedIn project description
-
-Just let me know.
