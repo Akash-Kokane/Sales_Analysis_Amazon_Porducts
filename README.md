@@ -72,6 +72,20 @@ Relationship:
 
 ---
 
+## Data Modeling
+A Star Schema was created for efficient reporting and time-intelligence analysis.
+
+## Relationship Created
+A one-to-many relationship is established between the main fact table and the date dimension:
+
+```javascript
+Amazon_Data[Order Date]  --->  Date_Table[Date]
+```
+
+Date_Table acts as the primary calendar dimension.
+The relationship enables accurate calculations for YTD, QTD, Monthly, and Weekly metrics.
+This structure improves performance and supports Power BI’s native time intelligence functions such as DATESYTD, DATESQTD, and TOTALYTD.
+
 ## Dashboard Features
 
 ### Key Performance Indicators (KPIs)
