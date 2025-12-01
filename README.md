@@ -1,11 +1,3 @@
-# Sales_Analysis_Amazon_Porducts
-
-Below is a **clean, properly formatted README.md** *exactly* as it should appear in GitHub — no emojis, no distractions, fully professional, ATS-friendly, Markdown-standard, and suitable for a portfolio.
-
-You can copy/paste directly into `README.md`.
-
----
-
 # Amazon Products Sales Analysis – Power BI Dashboard
 
 ## Project Overview
